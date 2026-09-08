@@ -93,7 +93,7 @@ Filename: `projectx_credentials_YYYY-MM-DD.txt`.
 ## Bookmarklet source (readable)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/credential_tool.png" alt="The credential tool panel after a successful capture: API URL, masked Bearer token, masked account ID, download button, and a log of the intercepted calls" width="460">
+  <img src="https://raw.githubusercontent.com/mattiasmac/ProjectX-Credential-Tool/main/credential_tool.png" alt="The credential tool panel after a successful capture: API URL, masked Bearer token, masked account ID, download button, and a log of the intercepted calls" width="460">
 </p>
 
 [`bookmarklet.min.js`](./bookmarklet.min.js) is the shipped, minified build (plain black-and-white UI, no branding). The listing below is the same logic unminified so you can read it before trusting it. If you edit it, minify with any JS minifier, prefix with `javascript:`, and URL-encode backticks as `%60`.
